@@ -24,42 +24,6 @@ I’m a CSE student passionate about web development, programming, and modern te
 - VS Code
 - Antigravity
 
-## Featured Projects
-
-### WiFi QR Generator
-A simple web application for generating QR codes from WiFi network details.
-
-[GitHub Repository](https://github.com/rahulde2007/WiFi-QR-Generator)
-
-### Graph RAG App
-An experimental application exploring Graph-based Retrieval Augmented Generation.
-
-[GitHub Repository](https://github.com/rahulde2007/Graph-RAG-App)
-
-### RepoMind
-A developer-focused project exploring AI-assisted repository and codebase analysis.
-
-[GitHub Repository](https://github.com/rahulde2007/Repo-mind)
-
-## Education
-
-**B.Tech in Computer Science & Engineering**  
-Future Institute of Engineering and Management, Sonarpur, Kolkata  
-2026 — Present
-
-**Science**  
-Rohini C.R.D High School, Rohini, Jhargram  
-2018 — 2026
-
-## Connect
-
-- [GitHub](https://github.com/rahulde2007)
-- [LinkedIn](https://www.linkedin.com/in/rahul-de-r6294520571/)
-- [Instagram](https://www.instagram.com/rahulde_18/)
-
----
-
-© 2026 Rahul De
 ## Local Development
 
 Requires Node.js and npm.
@@ -105,3 +69,39 @@ npm run preview
 └── vite.config.ts
 ```
 
+## Featured Projects
+
+### WiFi QR Generator
+A simple web application for generating QR codes from WiFi network details.
+
+[GitHub Repository](https://github.com/rahulde2007/WiFi-QR-Generator)
+
+### Graph RAG App
+An experimental application exploring Graph-based Retrieval Augmented Generation.
+
+[GitHub Repository](https://github.com/rahulde2007/Graph-RAG-App)
+
+### RepoMind
+A developer-focused project exploring AI-assisted repository and codebase analysis.
+
+[GitHub Repository](https://github.com/rahulde2007/Repo-mind)
+
+## Education
+
+**B.Tech in Computer Science & Engineering**  
+Future Institute of Engineering and Management, Sonarpur, Kolkata  
+2026 — Present
+
+**Science**  
+Rohini C.R.D High School, Rohini, Jhargram  
+2018 — 2026
+
+## Connect
+
+- [GitHub](https://github.com/rahulde2007)
+- [LinkedIn](https://www.linkedin.com/in/rahul-de-r6294520571/)
+- [Instagram](https://www.instagram.com/rahulde_18/)
+
+---
+
+© 2026 Rahul De
