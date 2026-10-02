@@ -1,69 +1,65 @@
-# RAHUL DE — 3D Portfolio
+# Rahul De — 3D Portfolio
 
-A modern 3D portfolio website showcasing my journey as a Computer Science and Engineering student and Web Developer.
+A modern 3D personal portfolio showcasing my journey as a Computer Science & Engineering student and Web Developer.
 
 ## About
 
-I am a CSE student interested in web development, programming, and modern technologies. I enjoy building practical projects, exploring new technologies, and continuously improving my development and problem-solving skills.
+I’m a CSE student passionate about web development, programming, and modern technologies. I enjoy building practical projects, exploring new technologies, and continuously improving my skills.
+
+## Tech Stack
+
+- C
+- C++
+- Python
+- JavaScript
+- TypeScript
+- HTML5
+- CSS3
+- React
+- Tailwind CSS
+- Git
+- GitHub
+- Docker
+- Google Cloud Platform
+- VS Code
+- Antigravity
+
+## Featured Projects
+
+### WiFi QR Generator
+A simple web application for generating QR codes from WiFi network details.
+
+[GitHub Repository](https://github.com/rahulde2007/WiFi-QR-Generator)
+
+### Graph RAG App
+An experimental application exploring Graph-based Retrieval Augmented Generation.
+
+[GitHub Repository](https://github.com/rahulde2007/Graph-RAG-App)
+
+### RepoMind
+A developer-focused project exploring AI-assisted repository and codebase analysis.
+
+[GitHub Repository](https://github.com/rahulde2007/Repo-mind)
 
 ## Education
 
-### Future Institute of Engineering and Management
+**B.Tech in Computer Science & Engineering**  
+Future Institute of Engineering and Management, Sonarpur, Kolkata  
+2026 — Present
 
-**B.Tech in Computer Science and Engineering**
+**Science**  
+Rohini C.R.D High School, Rohini, Jhargram  
+2018 — 2026
 
-Sonarpur, Kolkata  
-Aug 2026 — Present
+## Connect
 
-### Rohini C.R.D High School
+- [GitHub](https://github.com/rahulde2007)
+- [LinkedIn](https://www.linkedin.com/in/rahul-de-r6294520571/)
+- [Instagram](https://www.instagram.com/rahulde_18/)
 
-**Science**
+---
 
-Rohini, Jhargram  
-Jan 2018 — Feb 2026
-
-## Projects
-
-### WiFi QR Generator
-
-A simple web-based application that generates QR codes from WiFi network information, making it easier to share wireless network details.
-
-[GitHub repository](https://github.com/rahulde2007/WiFi-QR-Generator)
-
-### Graph RAG App
-
-An experimental application exploring Graph-based Retrieval Augmented Generation and the use of structured relationships for contextual information retrieval.
-
-[GitHub repository](https://github.com/rahulde2007/Graph-RAG-App)
-
-### RepoMind
-
-A developer-focused project exploring AI-assisted repository and codebase analysis to help developers understand software projects more efficiently.
-
-[GitHub repository](https://github.com/rahulde2007/Repo-mind)
-
-## Technologies
-
-- React 18 and TypeScript
-- Vite
-- Three.js and React Three Fiber
-- React Three Drei, Rapier, and postprocessing
-- GSAP, ScrollTrigger, ScrollSmoother, and SplitText
-- HTML and CSS
-- `react-fast-marquee`, `react-icons`, and `three-stdlib`
-
-## Features
-
-- Interactive 3D character experience with mouse and touch interaction
-- Scroll-driven animations and smooth scrolling
-- Responsive portfolio sections
-- Three-project carousel with navigation and indicators
-- Interactive cursor and hover effects
-- Animated technology scene
-- GitHub, LinkedIn, and Instagram links
-- Resume access from the portfolio
-- Loading screen and animated section reveals
-
+© 2026 Rahul De
 ## Local Development
 
 Requires Node.js and npm.
@@ -108,23 +104,4 @@ npm run preview
 ├── tsconfig.json
 └── vite.config.ts
 ```
-
-## Resume
-
-The portfolio Resume button opens the public resume asset at `/RAHUL%20DE%20RESUME.pdf`.
-
-## Social Links
-
-- GitHub: [github.com/rahulde2007](https://github.com/rahulde2007)
-- LinkedIn: [linkedin.com/in/rahul-de-r6294520571](https://www.linkedin.com/in/rahul-de-r6294520571/)
-- Instagram: [instagram.com/rahulde_18](https://www.instagram.com/rahulde_18/)
-
-## Author
-
-**RAHUL DE**  
-CSE Student & Web Developer
-
-- GitHub: [github.com/rahulde2007](https://github.com/rahulde2007)
-- LinkedIn: [linkedin.com/in/rahul-de-r6294520571](https://www.linkedin.com/in/rahul-de-r6294520571/)
-- Instagram: [instagram.com/rahulde_18](https://www.instagram.com/rahulde_18/)
 
