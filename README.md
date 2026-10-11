@@ -36,8 +36,7 @@ npm run dev
 ## Featured Projects
 
 - [**WiFi QR Generator**](https://github.com/rahulde2007/WiFi-QR-Generator): generate QR codes from WiFi details
-- [**Graph RAG App**](https://github.com/rahulde2007/Graph-RAG-App): experiments with graph-based retrieval augmented generation
-- [**RepoMind**](https://github.com/rahulde2007/Repo-mind): AI-assisted codebase analysis
+
 
 ## Contact
 
